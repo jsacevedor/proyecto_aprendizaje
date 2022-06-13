@@ -9,3 +9,4 @@ está realizando su curso formal.
 Su proyecto es en mediano plazo poder estar programando y 
 capitalizar su pasatiempo, quien sabe, quizás en un futuro
 migrar de carrera completamente.
+Prueba a ver si puedo crear commit independiente
