@@ -1,0 +1,9 @@
+Aquí estoy realizando mis primeras pruebas
+He realizado un commit 27938d6d3e0457dccd9e8359d02be2d1fcc26a72
+en el que se ha guardado en conjunto la primera modificación,
+commit el cual ha guardado también la modificación en el 
+otro documento, estoy realizando esta prueba para ver si se
+al devolver al commit este también se devuelve.
+vamos a ver si con esta modificació logro quitar el 
+fallos HEAD detached at 7d380f1
+He borrado todo realizando pruebas jeje, comenzando commit 
