@@ -7,3 +7,5 @@ al devolver al commit este también se devuelve.
 vamos a ver si con esta modificació logro quitar el 
 fallos HEAD detached at 7d380f1
 He borrado todo realizando pruebas jeje, comenzando commit 
+
+Prueba a ver si puedo crear commit independiente
